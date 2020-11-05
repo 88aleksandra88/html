@@ -12,7 +12,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="#">Contact Page</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -99,12 +99,12 @@
             <div class="col-lg-12">
                 <ul class="list-unstyled">
                     <li class="float-lg-right"><a href="#top">Back to top</a></li>
-                    <li><a href="https://blog.bootswatch.com/">Blog</a></li>
-                    <li><a href="https://blog.bootswatch.com/rss/">RSS</a></li>
-                    <li><a href="https://twitter.com/bootswatch">Twitter</a></li>
-                    <li><a href="https://github.com/thomaspark/bootswatch">GitHub</a></li>
-                    <li><a href="../help/#api">API</a></li>
-                    <li><a href="../help/#donate">Donate</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">RSS</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">GitHub</a></li>
+                    <li><a href="#">API</a></li>
+                    <li><a href="#">Donate</a></li>
                 </ul>
 
             </div>
