@@ -1,6 +1,6 @@
 # laravel basic contact-form
 
-<img="https://media.giphy.com/labs/images/laravel-wrapper.gif">
+<img="https://media.giphy.com/labs/images/laravel-wrapper.gif"/>
 
 - Playing around with laravel and build a simple contact form
 - Email recap to the receiver
@@ -9,5 +9,5 @@
 
 ## Project :
 
-- Click here[https://laravel-contact-form.herokuapp.com/]
+- (Click here)[https://laravel-contact-form.herokuapp.com/]
 
