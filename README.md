@@ -1,6 +1,6 @@
 # laravel basic contact-form
 
-<img height="100px" src="https://media.giphy.com/labs/images/laravel-wrapper.gif"/>
+<img height="200px" src="https://media.giphy.com/labs/images/laravel-wrapper.gif"/>
 
 - Playing around with laravel and build a simple contact form
 - Email recap to the receiver
