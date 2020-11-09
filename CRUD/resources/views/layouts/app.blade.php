@@ -34,15 +34,6 @@
 
     <div class="container">
         @yield('content')
-    </div>
-    <div class="text-center footer">
-
-        <h4>Created by: Slowik Aleksandra</h4>
-        <h4>0493 79 61 11</h4>
-        <h4>aleksandra.slowik88@gmail.com</h4>
-        <h4>Github: www.github.com/88aleksandra88</h4>
-
-    </div>
 </body>
 
 </html>
