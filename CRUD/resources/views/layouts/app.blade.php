@@ -22,9 +22,7 @@
             text-align: center;
         }
 
-        body {
-            background-color: #EDF7EF
-        }
+        body {}
     </style>
 
 </head>

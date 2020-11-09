@@ -4,7 +4,7 @@
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <h2>Add New Project</h2>
+            <h2>Add Your New Project</h2>
         </div>
         <div class="pull-right">
             <a class="btn btn-primary" href="{{ route('projects.index') }}" title="Go back"> <i class="fas fa-backward "></i> </a>
@@ -14,7 +14,7 @@
 
 @if ($errors->any())
 <div class="alert alert-danger">
-    <strong>Whoops!</strong> There were some problems with your input.<br><br>
+    <strong>Error!</strong> There were some problems with your input.<br><br>
     <ul>
         @foreach ($errors->all() as $error)
         <li>{{ $error }}</li>
@@ -41,7 +41,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Location:</strong>
-                <input type="text" name="location" class="form-control" placeholder="Location">
+                <input type="text" name="description" class="form-control" placeholder="Location">
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
