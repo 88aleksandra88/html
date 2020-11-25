@@ -1,5 +1,5 @@
 # Laravel contact form
-<img height="500" src="https://media.giphy.com/labs/images/laravel-wrapper.gif">
+<img height="400" src="https://media.giphy.com/labs/images/laravel-wrapper.gif">
 
 ***Small prroblem with heroku deployement***
 
